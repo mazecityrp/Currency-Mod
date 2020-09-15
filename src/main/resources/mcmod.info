@@ -1,0 +1,16 @@
+[
+{
+  "modid": "currency",
+  "name": "Good Ol' Currency Mod",
+  "description": "Creating an economy, in Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BeardlessBrady"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
