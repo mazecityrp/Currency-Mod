@@ -13,8 +13,8 @@ I've created this mod because I've always wanted some sort of base economy for m
 
 #Contacts
 
-[![](https://img.shields.io/badge/Discord-Beardlessbrady%232909-7289DA.svg)](https://discord.gg/kSRXwZJ)
-[![](https://img.shields.io/badge/Project-Trello-green.svg)](https://trello.com/b/TIjaFASH/currency)
+[![](https://img.shields.io/badge/Discord-Beardlessbrady%232909-7289DA.svg)](https://discord.gg/a3srE2)
+[![](https://img.shields.io/badge/Project-Trello-green.svg)](https://trello.com/b/V7aAaXo8/good-ol-currency)
 
 ©All Rights Reserved
 
